@@ -1,0 +1,16 @@
+Para inteiros sem sinal (unsigned):
+8 bits:  0 a 255
+16 bits: 0 a 65.535
+32 bits: 0 a 4.294.967.295
+64 bits: 0 a 18.446.744.073.709.551.615
+
+Para inteiros com sinal (signed):
+8 bits:  -128 a 127
+16 bits: -32.768 a 32.767
+32 bits: -2.147.483.648 a 2.147.483.647
+64 bits: -9.223.372.036.854.775.808 a 9.223.372.036.854.775.807
+
+Para floats com sinal (signed)
+16 bits: 0 a 65500.0
+32 bits: 0 a 3.4028235e+38
+64 bits: 0 a 1.7976931348623157e+308
